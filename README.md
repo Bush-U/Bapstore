@@ -1,7 +1,7 @@
 # Bapstore
 The app store for all my mobile projects 
 
-Only iOS support for now (Sorry!)
+~Only iOS support for now (Sorry!)~ without CORS, I can focus on android support (that's easy) more.
 
 ## How to install:
 ### ~On altstore or sidestore, go to: browse > sources > (Click the plus button) > and type in:~
